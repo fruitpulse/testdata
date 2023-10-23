@@ -1,466 +1,1568 @@
 [
   {
     "fdc": "Lemon",
+    "nutrient": "Calcium",
+    "amount": 26,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Lemon",
     "nutrient": "Fiber",
     "amount": 2.8,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 2.8
+    "Unit": "G"
+  },
+  {
+    "fdc": "Lemon",
+    "nutrient": "Sugars",
+    "amount": 2.5,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Lemon",
+    "nutrient": "Iron",
+    "amount": 0.6,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Lemon",
+    "nutrient": "Potassium",
+    "amount": 138,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Lemon",
+    "nutrient": "Energy",
+    "amount": 29,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Lemon",
+    "nutrient": "Lipid Fat",
+    "amount": 0.3,
+    "Unit": "G"
   },
   {
     "fdc": "Lemon",
     "nutrient": "Protein",
     "amount": 1.1,
-    "Unit": "G",
-    "ProteinAmount": 1.1,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Lemon",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 1,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Orange",
+    "nutrient": "Iron",
+    "amount": 0.22,
+    "Unit": "MG"
   },
   {
     "fdc": "Orange",
     "nutrient": "Protein",
     "amount": 0.92,
-    "Unit": "G",
-    "ProteinAmount": 0.92,
-    "FiberAmount": -9999
+    "Unit": "G"
   },
   {
     "fdc": "Orange",
     "nutrient": "Fiber",
     "amount": 2.2,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 2.2
+    "Unit": "G"
+  },
+  {
+    "fdc": "Orange",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 11,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Orange",
+    "nutrient": "Energy",
+    "amount": 50,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Orange",
+    "nutrient": "Potassium",
+    "amount": 174,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Orange",
+    "nutrient": "Lipid Fat",
+    "amount": 0.14,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Orange",
+    "nutrient": "Calcium",
+    "amount": 42,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Orange",
+    "nutrient": "Sugars",
+    "amount": 8.96,
+    "Unit": "G"
   },
   {
     "fdc": "Tangerine",
     "nutrient": "Fiber",
     "amount": 1.8,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 1.8
+    "Unit": "G"
+  },
+  {
+    "fdc": "Tangerine",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 34,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Tangerine",
+    "nutrient": "Calcium",
+    "amount": 37,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Tangerine",
+    "nutrient": "Energy",
+    "amount": 53,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Tangerine",
+    "nutrient": "Iron",
+    "amount": 0.15,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Tangerine",
+    "nutrient": "Sugars",
+    "amount": 10.58,
+    "Unit": "G"
   },
   {
     "fdc": "Tangerine",
     "nutrient": "Protein",
     "amount": 0.81,
-    "Unit": "G",
-    "ProteinAmount": 0.81,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Tangerine",
+    "nutrient": "Potassium",
+    "amount": 166,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Tangerine",
+    "nutrient": "Lipid Fat",
+    "amount": 0.31,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Apple",
+    "nutrient": "Energy",
+    "amount": 61,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Apple",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 3,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Apple",
+    "nutrient": "Iron",
+    "amount": 0.03,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Apple",
+    "nutrient": "Calcium",
+    "amount": 5,
+    "Unit": "MG"
   },
   {
     "fdc": "Apple",
     "nutrient": "Protein",
     "amount": 0.17,
-    "Unit": "G",
-    "ProteinAmount": 0.17,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Apple",
+    "nutrient": "Lipid Fat",
+    "amount": 0.15,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Apple",
+    "nutrient": "Sugars",
+    "amount": 12.08,
+    "Unit": "G"
   },
   {
     "fdc": "Apple",
     "nutrient": "Fiber",
     "amount": 2.1,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 2.1
+    "Unit": "G"
+  },
+  {
+    "fdc": "Apple",
+    "nutrient": "Potassium",
+    "amount": 104,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Apricot",
+    "nutrient": "Sugars",
+    "amount": 9.24,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Apricot",
+    "nutrient": "Calcium",
+    "amount": 13,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Apricot",
+    "nutrient": "Potassium",
+    "amount": 259,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Apricot",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 96,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Apricot",
+    "nutrient": "Energy",
+    "amount": 48,
+    "Unit": "KCAL"
   },
   {
     "fdc": "Apricot",
     "nutrient": "Fiber",
     "amount": 2,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 2
+    "Unit": "G"
+  },
+  {
+    "fdc": "Apricot",
+    "nutrient": "Iron",
+    "amount": 0.39,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Apricot",
+    "nutrient": "Lipid Fat",
+    "amount": 0.39,
+    "Unit": "G"
   },
   {
     "fdc": "Apricot",
     "nutrient": "Protein",
     "amount": 1.4,
-    "Unit": "G",
-    "ProteinAmount": 1.4,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Avocado",
+    "nutrient": "Energy",
+    "amount": 160,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Avocado",
+    "nutrient": "Lipid Fat",
+    "amount": 14.66,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Avocado",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 7,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Avocado",
+    "nutrient": "Sugars",
+    "amount": 0.66,
+    "Unit": "G"
   },
   {
     "fdc": "Avocado",
     "nutrient": "Fiber",
     "amount": 6.7,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 6.7
+    "Unit": "G"
+  },
+  {
+    "fdc": "Avocado",
+    "nutrient": "Iron",
+    "amount": 0.55,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Avocado",
+    "nutrient": "Potassium",
+    "amount": 485,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Avocado",
+    "nutrient": "Calcium",
+    "amount": 12,
+    "Unit": "MG"
   },
   {
     "fdc": "Avocado",
     "nutrient": "Protein",
     "amount": 2,
-    "Unit": "G",
-    "ProteinAmount": 2,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Banana",
+    "nutrient": "Energy",
+    "amount": 97,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Banana",
+    "nutrient": "Lipid Fat",
+    "amount": 0.28,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Banana",
+    "nutrient": "Potassium",
+    "amount": 326,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Banana",
+    "nutrient": "Calcium",
+    "amount": 5,
+    "Unit": "MG"
   },
   {
     "fdc": "Banana",
     "nutrient": "Protein",
     "amount": 0.74,
-    "Unit": "G",
-    "ProteinAmount": 0.74,
-    "FiberAmount": -9999
+    "Unit": "G"
   },
   {
     "fdc": "Banana",
     "nutrient": "Fiber",
     "amount": 1.7,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 1.7
+    "Unit": "G"
+  },
+  {
+    "fdc": "Banana",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 1,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Banana",
+    "nutrient": "Iron",
+    "amount": 0,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Banana",
+    "nutrient": "Sugars",
+    "amount": 15.8,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Cantaloupe",
+    "nutrient": "Potassium",
+    "amount": 157,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Cantaloupe",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 232,
+    "Unit": "UG"
   },
   {
     "fdc": "Cantaloupe",
     "nutrient": "Fiber",
     "amount": 0.8,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 0.8
+    "Unit": "G"
   },
   {
     "fdc": "Cantaloupe",
     "nutrient": "Protein",
     "amount": 0.82,
-    "Unit": "G",
-    "ProteinAmount": 0.82,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Cantaloupe",
+    "nutrient": "Calcium",
+    "amount": 9,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Cantaloupe",
+    "nutrient": "Lipid Fat",
+    "amount": 0.18,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Cantaloupe",
+    "nutrient": "Iron",
+    "amount": 0.38,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Cantaloupe",
+    "nutrient": "Energy",
+    "amount": 38,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Cantaloupe",
+    "nutrient": "Sugars",
+    "amount": 7.88,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Starfruit",
+    "nutrient": "Lipid Fat",
+    "amount": 0.33,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Starfruit",
+    "nutrient": "Sugars",
+    "amount": 3.98,
+    "Unit": "G"
   },
   {
     "fdc": "Starfruit",
     "nutrient": "Fiber",
     "amount": 2.8,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 2.8
+    "Unit": "G"
+  },
+  {
+    "fdc": "Starfruit",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 3,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Starfruit",
+    "nutrient": "Iron",
+    "amount": 0.08,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Starfruit",
+    "nutrient": "Energy",
+    "amount": 31,
+    "Unit": "KCAL"
   },
   {
     "fdc": "Starfruit",
     "nutrient": "Protein",
     "amount": 1.04,
-    "Unit": "G",
-    "ProteinAmount": 1.04,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Starfruit",
+    "nutrient": "Calcium",
+    "amount": 3,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Starfruit",
+    "nutrient": "Potassium",
+    "amount": 133,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Cherries",
+    "nutrient": "Sugars",
+    "amount": 12.82,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Cherries",
+    "nutrient": "Potassium",
+    "amount": 222,
+    "Unit": "MG"
   },
   {
     "fdc": "Cherries",
     "nutrient": "Fiber",
     "amount": 2.1,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 2.1
+    "Unit": "G"
+  },
+  {
+    "fdc": "Cherries",
+    "nutrient": "Calcium",
+    "amount": 13,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Cherries",
+    "nutrient": "Lipid Fat",
+    "amount": 0.2,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Cherries",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 3,
+    "Unit": "UG"
   },
   {
     "fdc": "Cherries",
     "nutrient": "Protein",
     "amount": 1.06,
-    "Unit": "G",
-    "ProteinAmount": 1.06,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Cherries",
+    "nutrient": "Iron",
+    "amount": 0.36,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Cherries",
+    "nutrient": "Energy",
+    "amount": 63,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Grapes",
+    "nutrient": "Energy",
+    "amount": 69,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Grapes",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 3,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Grapes",
+    "nutrient": "Calcium",
+    "amount": 10,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Grapes",
+    "nutrient": "Lipid Fat",
+    "amount": 0.16,
+    "Unit": "G"
   },
   {
     "fdc": "Grapes",
     "nutrient": "Protein",
     "amount": 0.72,
-    "Unit": "G",
-    "ProteinAmount": 0.72,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Grapes",
+    "nutrient": "Iron",
+    "amount": 0.36,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Grapes",
+    "nutrient": "Sugars",
+    "amount": 15.48,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Grapes",
+    "nutrient": "Potassium",
+    "amount": 191,
+    "Unit": "MG"
   },
   {
     "fdc": "Grapes",
     "nutrient": "Fiber",
     "amount": 0.9,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 0.9
+    "Unit": "G"
+  },
+  {
+    "fdc": "Guava",
+    "nutrient": "Potassium",
+    "amount": 417,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Guava",
+    "nutrient": "Iron",
+    "amount": 0.26,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Guava",
+    "nutrient": "Sugars",
+    "amount": 8.92,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Guava",
+    "nutrient": "Energy",
+    "amount": 68,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Guava",
+    "nutrient": "Lipid Fat",
+    "amount": 0.95,
+    "Unit": "G"
   },
   {
     "fdc": "Guava",
     "nutrient": "Fiber",
     "amount": 5.4,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 5.4
+    "Unit": "G"
+  },
+  {
+    "fdc": "Guava",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 31,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Guava",
+    "nutrient": "Calcium",
+    "amount": 18,
+    "Unit": "MG"
   },
   {
     "fdc": "Guava",
     "nutrient": "Protein",
     "amount": 2.55,
-    "Unit": "G",
-    "ProteinAmount": 2.55,
-    "FiberAmount": -9999
+    "Unit": "G"
   },
   {
     "fdc": "Kiwi",
     "nutrient": "Protein",
     "amount": 1.06,
-    "Unit": "G",
-    "ProteinAmount": 1.06,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Kiwi",
+    "nutrient": "Energy",
+    "amount": 64,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Kiwi",
+    "nutrient": "Potassium",
+    "amount": 198,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Kiwi",
+    "nutrient": "Lipid Fat",
+    "amount": 0.44,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Kiwi",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 4,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Kiwi",
+    "nutrient": "Sugars",
+    "amount": 8.99,
+    "Unit": "G"
   },
   {
     "fdc": "Kiwi",
     "nutrient": "Fiber",
     "amount": 3,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 3
+    "Unit": "G"
+  },
+  {
+    "fdc": "Kiwi",
+    "nutrient": "Calcium",
+    "amount": 35,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Kiwi",
+    "nutrient": "Iron",
+    "amount": 0.24,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Honeydew",
+    "nutrient": "Calcium",
+    "amount": 6,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Honeydew",
+    "nutrient": "Iron",
+    "amount": 0.17,
+    "Unit": "MG"
   },
   {
     "fdc": "Honeydew",
     "nutrient": "Fiber",
     "amount": 0.8,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 0.8
+    "Unit": "G"
+  },
+  {
+    "fdc": "Honeydew",
+    "nutrient": "Potassium",
+    "amount": 228,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Honeydew",
+    "nutrient": "Energy",
+    "amount": 36,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Honeydew",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 3,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Honeydew",
+    "nutrient": "Lipid Fat",
+    "amount": 0.14,
+    "Unit": "G"
   },
   {
     "fdc": "Honeydew",
     "nutrient": "Protein",
     "amount": 0.54,
-    "Unit": "G",
-    "ProteinAmount": 0.54,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Honeydew",
+    "nutrient": "Sugars",
+    "amount": 8.12,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Mango",
+    "nutrient": "Calcium",
+    "amount": 11,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Mango",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 54,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Mango",
+    "nutrient": "Sugars",
+    "amount": 13.66,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Mango",
+    "nutrient": "Lipid Fat",
+    "amount": 0.38,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Mango",
+    "nutrient": "Potassium",
+    "amount": 168,
+    "Unit": "MG"
   },
   {
     "fdc": "Mango",
     "nutrient": "Fiber",
     "amount": 1.6,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 1.6
+    "Unit": "G"
+  },
+  {
+    "fdc": "Mango",
+    "nutrient": "Iron",
+    "amount": 0.16,
+    "Unit": "MG"
   },
   {
     "fdc": "Mango",
     "nutrient": "Protein",
     "amount": 0.82,
-    "Unit": "G",
-    "ProteinAmount": 0.82,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Mango",
+    "nutrient": "Energy",
+    "amount": 60,
+    "Unit": "KCAL"
   },
   {
     "fdc": "Papaya",
     "nutrient": "Fiber",
     "amount": 1.7,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 1.7
+    "Unit": "G"
+  },
+  {
+    "fdc": "Papaya",
+    "nutrient": "Calcium",
+    "amount": 20,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Papaya",
+    "nutrient": "Iron",
+    "amount": 0.25,
+    "Unit": "MG"
   },
   {
     "fdc": "Papaya",
     "nutrient": "Protein",
     "amount": 0.47,
-    "Unit": "G",
-    "ProteinAmount": 0.47,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Papaya",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 47,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Papaya",
+    "nutrient": "Lipid Fat",
+    "amount": 0.26,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Papaya",
+    "nutrient": "Energy",
+    "amount": 43,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Papaya",
+    "nutrient": "Potassium",
+    "amount": 182,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Papaya",
+    "nutrient": "Sugars",
+    "amount": 7.82,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Peach",
+    "nutrient": "Lipid Fat",
+    "amount": 0.27,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Peach",
+    "nutrient": "Calcium",
+    "amount": 4,
+    "Unit": "MG"
   },
   {
     "fdc": "Peach",
     "nutrient": "Protein",
     "amount": 0.91,
-    "Unit": "G",
-    "ProteinAmount": 0.91,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Peach",
+    "nutrient": "Potassium",
+    "amount": 122,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Peach",
+    "nutrient": "Sugars",
+    "amount": 8.39,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Peach",
+    "nutrient": "Energy",
+    "amount": 46,
+    "Unit": "KCAL"
   },
   {
     "fdc": "Peach",
     "nutrient": "Fiber",
     "amount": 1.5,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 1.5
+    "Unit": "G"
+  },
+  {
+    "fdc": "Peach",
+    "nutrient": "Iron",
+    "amount": 0.34,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Peach",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 24,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Pear",
+    "nutrient": "Calcium",
+    "amount": 9,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Pear",
+    "nutrient": "Lipid Fat",
+    "amount": 0.15,
+    "Unit": "G"
   },
   {
     "fdc": "Pear",
     "nutrient": "Protein",
     "amount": 0.37,
-    "Unit": "G",
-    "ProteinAmount": 0.37,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Pear",
+    "nutrient": "Iron",
+    "amount": 0.18,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Pear",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 1,
+    "Unit": "UG"
   },
   {
     "fdc": "Pear",
     "nutrient": "Fiber",
     "amount": 3.1,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 3.1
+    "Unit": "G"
+  },
+  {
+    "fdc": "Pear",
+    "nutrient": "Potassium",
+    "amount": 104,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Pear",
+    "nutrient": "Energy",
+    "amount": 59,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Pear",
+    "nutrient": "Sugars",
+    "amount": 9.73,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Pineapple",
+    "nutrient": "Lipid Fat",
+    "amount": 0.12,
+    "Unit": "G"
   },
   {
     "fdc": "Pineapple",
     "nutrient": "Fiber",
     "amount": 1.4,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 1.4
+    "Unit": "G"
   },
   {
     "fdc": "Pineapple",
     "nutrient": "Protein",
     "amount": 0.54,
-    "Unit": "G",
-    "ProteinAmount": 0.54,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Pineapple",
+    "nutrient": "Iron",
+    "amount": 0.29,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Pineapple",
+    "nutrient": "Energy",
+    "amount": 50,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Pineapple",
+    "nutrient": "Calcium",
+    "amount": 13,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Pineapple",
+    "nutrient": "Sugars",
+    "amount": 9.85,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Pineapple",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 3,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Pineapple",
+    "nutrient": "Potassium",
+    "amount": 109,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Plum",
+    "nutrient": "Energy",
+    "amount": 46,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Plum",
+    "nutrient": "Calcium",
+    "amount": 6,
+    "Unit": "MG"
   },
   {
     "fdc": "Plum",
     "nutrient": "Fiber",
     "amount": 1.4,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 1.4
+    "Unit": "G"
   },
   {
     "fdc": "Plum",
     "nutrient": "Protein",
     "amount": 0.7,
-    "Unit": "G",
-    "ProteinAmount": 0.7,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Plum",
+    "nutrient": "Lipid Fat",
+    "amount": 0.28,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Plum",
+    "nutrient": "Iron",
+    "amount": 0.17,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Plum",
+    "nutrient": "Sugars",
+    "amount": 9.92,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Plum",
+    "nutrient": "Potassium",
+    "amount": 157,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Plum",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 17,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Watermelon",
+    "nutrient": "Iron",
+    "amount": 0.24,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Watermelon",
+    "nutrient": "Sugars",
+    "amount": 6.2,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Watermelon",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 28,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Watermelon",
+    "nutrient": "Calcium",
+    "amount": 7,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Watermelon",
+    "nutrient": "Potassium",
+    "amount": 112,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Watermelon",
+    "nutrient": "Lipid Fat",
+    "amount": 0.15,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Watermelon",
+    "nutrient": "Energy",
+    "amount": 30,
+    "Unit": "KCAL"
   },
   {
     "fdc": "Watermelon",
     "nutrient": "Fiber",
     "amount": 0.4,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 0.4
+    "Unit": "G"
   },
   {
     "fdc": "Watermelon",
     "nutrient": "Protein",
     "amount": 0.61,
-    "Unit": "G",
-    "ProteinAmount": 0.61,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Blackberries",
+    "nutrient": "Sugars",
+    "amount": 4.88,
+    "Unit": "G"
   },
   {
     "fdc": "Blackberries",
     "nutrient": "Fiber",
     "amount": 5.3,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 5.3
+    "Unit": "G"
+  },
+  {
+    "fdc": "Blackberries",
+    "nutrient": "Lipid Fat",
+    "amount": 0.49,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Blackberries",
+    "nutrient": "Potassium",
+    "amount": 162,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Blackberries",
+    "nutrient": "Iron",
+    "amount": 0.62,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Blackberries",
+    "nutrient": "Calcium",
+    "amount": 29,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Blackberries",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 11,
+    "Unit": "UG"
   },
   {
     "fdc": "Blackberries",
     "nutrient": "Protein",
     "amount": 1.39,
-    "Unit": "G",
-    "ProteinAmount": 1.39,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Blackberries",
+    "nutrient": "Energy",
+    "amount": 43,
+    "Unit": "KCAL"
   },
   {
     "fdc": "Blueberries",
     "nutrient": "Protein",
     "amount": 0.74,
-    "Unit": "G",
-    "ProteinAmount": 0.74,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Blueberries",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 3,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Blueberries",
+    "nutrient": "Lipid Fat",
+    "amount": 0.33,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Blueberries",
+    "nutrient": "Sugars",
+    "amount": 9.96,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Blueberries",
+    "nutrient": "Calcium",
+    "amount": 6,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Blueberries",
+    "nutrient": "Iron",
+    "amount": 0.28,
+    "Unit": "MG"
   },
   {
     "fdc": "Blueberries",
     "nutrient": "Fiber",
     "amount": 2.4,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 2.4
+    "Unit": "G"
+  },
+  {
+    "fdc": "Blueberries",
+    "nutrient": "Potassium",
+    "amount": 77,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Blueberries",
+    "nutrient": "Energy",
+    "amount": 57,
+    "Unit": "KCAL"
   },
   {
     "fdc": "Cranberries",
     "nutrient": "Protein",
     "amount": 0.46,
-    "Unit": "G",
-    "ProteinAmount": 0.46,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Cranberries",
+    "nutrient": "Energy",
+    "amount": 46,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Cranberries",
+    "nutrient": "Lipid Fat",
+    "amount": 0.13,
+    "Unit": "G"
   },
   {
     "fdc": "Cranberries",
     "nutrient": "Fiber",
     "amount": 3.6,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 3.6
+    "Unit": "G"
+  },
+  {
+    "fdc": "Cranberries",
+    "nutrient": "Potassium",
+    "amount": 80,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Cranberries",
+    "nutrient": "Sugars",
+    "amount": 4.27,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Cranberries",
+    "nutrient": "Calcium",
+    "amount": 8,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Cranberries",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 3,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Cranberries",
+    "nutrient": "Iron",
+    "amount": 0.23,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Raspberries",
+    "nutrient": "Potassium",
+    "amount": 151,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Raspberries",
+    "nutrient": "Lipid Fat",
+    "amount": 0.65,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Raspberries",
+    "nutrient": "Sugars",
+    "amount": 4.42,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Raspberries",
+    "nutrient": "Calcium",
+    "amount": 25,
+    "Unit": "MG"
   },
   {
     "fdc": "Raspberries",
     "nutrient": "Protein",
     "amount": 1.2,
-    "Unit": "G",
-    "ProteinAmount": 1.2,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Raspberries",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 2,
+    "Unit": "UG"
   },
   {
     "fdc": "Raspberries",
     "nutrient": "Fiber",
     "amount": 6.5,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 6.5
+    "Unit": "G"
+  },
+  {
+    "fdc": "Raspberries",
+    "nutrient": "Energy",
+    "amount": 52,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Raspberries",
+    "nutrient": "Iron",
+    "amount": 0.69,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Strawberries",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 1,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Strawberries",
+    "nutrient": "Lipid Fat",
+    "amount": 0.22,
+    "Unit": "G"
   },
   {
     "fdc": "Strawberries",
     "nutrient": "Fiber",
     "amount": 1.8,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 1.8
+    "Unit": "G"
+  },
+  {
+    "fdc": "Strawberries",
+    "nutrient": "Energy",
+    "amount": 35,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Strawberries",
+    "nutrient": "Sugars",
+    "amount": 5.34,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Strawberries",
+    "nutrient": "Iron",
+    "amount": 0.28,
+    "Unit": "MG"
   },
   {
     "fdc": "Strawberries",
     "nutrient": "Protein",
     "amount": 0.64,
-    "Unit": "G",
-    "ProteinAmount": 0.64,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Strawberries",
+    "nutrient": "Calcium",
+    "amount": 12,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Strawberries",
+    "nutrient": "Potassium",
+    "amount": 89,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Ripe Plantain",
+    "nutrient": "Potassium",
+    "amount": 487,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Ripe Plantain",
+    "nutrient": "Sugars",
+    "amount": 17.51,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Ripe Plantain",
+    "nutrient": "Lipid Fat",
+    "amount": 0.35,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Ripe Plantain",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 56,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Ripe Plantain",
+    "nutrient": "Calcium",
+    "amount": 3,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Ripe Plantain",
+    "nutrient": "Energy",
+    "amount": 122,
+    "Unit": "KCAL"
   },
   {
     "fdc": "Ripe Plantain",
     "nutrient": "Fiber",
     "amount": 1.7,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 1.7
+    "Unit": "G"
   },
   {
     "fdc": "Ripe Plantain",
     "nutrient": "Protein",
     "amount": 1.3,
-    "Unit": "G",
-    "ProteinAmount": 1.3,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Ripe Plantain",
+    "nutrient": "Iron",
+    "amount": 0.55,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Artichoke",
+    "nutrient": "Energy",
+    "amount": 53,
+    "Unit": "KCAL"
+  },
+  {
+    "fdc": "Artichoke",
+    "nutrient": "Iron",
+    "amount": 0.61,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Artichoke",
+    "nutrient": "Calcium",
+    "amount": 21,
+    "Unit": "MG"
   },
   {
     "fdc": "Artichoke",
     "nutrient": "Protein",
     "amount": 2.89,
-    "Unit": "G",
-    "ProteinAmount": 2.89,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Artichoke",
+    "nutrient": "Lipid Fat",
+    "amount": 0.34,
+    "Unit": "G"
   },
   {
     "fdc": "Artichoke",
     "nutrient": "Fiber",
     "amount": 5.7,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 5.7
+    "Unit": "G"
+  },
+  {
+    "fdc": "Artichoke",
+    "nutrient": "Sugars",
+    "amount": 0.99,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Artichoke",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 1,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Artichoke",
+    "nutrient": "Potassium",
+    "amount": 286,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Asparagus",
+    "nutrient": "Potassium",
+    "amount": 202,
+    "Unit": "MG"
   },
   {
     "fdc": "Asparagus",
     "nutrient": "Fiber",
     "amount": 2.1,
-    "Unit": "G",
-    "ProteinAmount": -9999,
-    "FiberAmount": 2.1
+    "Unit": "G"
+  },
+  {
+    "fdc": "Asparagus",
+    "nutrient": "Lipid Fat",
+    "amount": 0.12,
+    "Unit": "G"
+  },
+  {
+    "fdc": "Asparagus",
+    "nutrient": "Vitamin A, RAE",
+    "amount": 38,
+    "Unit": "UG"
+  },
+  {
+    "fdc": "Asparagus",
+    "nutrient": "Iron",
+    "amount": 2.14,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Asparagus",
+    "nutrient": "Sugars",
+    "amount": 1.88,
+    "Unit": "G"
   },
   {
     "fdc": "Asparagus",
     "nutrient": "Protein",
     "amount": 2.2,
-    "Unit": "G",
-    "ProteinAmount": 2.2,
-    "FiberAmount": -9999
+    "Unit": "G"
+  },
+  {
+    "fdc": "Asparagus",
+    "nutrient": "Calcium",
+    "amount": 24,
+    "Unit": "MG"
+  },
+  {
+    "fdc": "Asparagus",
+    "nutrient": "Energy",
+    "amount": 20,
+    "Unit": "KCAL"
   }
 ]
