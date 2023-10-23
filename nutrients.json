@@ -3,348 +3,464 @@
     "fdc": "Lemon",
     "nutrient": "Fiber",
     "amount": 2.8,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 2.8
   },
   {
     "fdc": "Lemon",
     "nutrient": "Protein",
     "amount": 1.1,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 1.1,
+    "FiberAmount": ""
   },
   {
     "fdc": "Orange",
     "nutrient": "Protein",
     "amount": 0.92,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.92,
+    "FiberAmount": ""
   },
   {
     "fdc": "Orange",
     "nutrient": "Fiber",
     "amount": 2.2,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 2.2
   },
   {
     "fdc": "Tangerine",
     "nutrient": "Fiber",
     "amount": 1.8,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 1.8
   },
   {
     "fdc": "Tangerine",
     "nutrient": "Protein",
     "amount": 0.81,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.81,
+    "FiberAmount": ""
   },
   {
     "fdc": "Apple",
     "nutrient": "Protein",
     "amount": 0.17,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.17,
+    "FiberAmount": ""
   },
   {
     "fdc": "Apple",
     "nutrient": "Fiber",
     "amount": 2.1,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 2.1
   },
   {
     "fdc": "Apricot",
     "nutrient": "Fiber",
     "amount": 2,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 2
   },
   {
     "fdc": "Apricot",
     "nutrient": "Protein",
     "amount": 1.4,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 1.4,
+    "FiberAmount": ""
   },
   {
     "fdc": "Avocado",
     "nutrient": "Fiber",
     "amount": 6.7,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 6.7
   },
   {
     "fdc": "Avocado",
     "nutrient": "Protein",
     "amount": 2,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 2,
+    "FiberAmount": ""
   },
   {
     "fdc": "Banana",
     "nutrient": "Protein",
     "amount": 0.74,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.74,
+    "FiberAmount": ""
   },
   {
     "fdc": "Banana",
     "nutrient": "Fiber",
     "amount": 1.7,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 1.7
   },
   {
     "fdc": "Cantaloupe",
     "nutrient": "Fiber",
     "amount": 0.8,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 0.8
   },
   {
     "fdc": "Cantaloupe",
     "nutrient": "Protein",
     "amount": 0.82,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.82,
+    "FiberAmount": ""
   },
   {
     "fdc": "Starfruit",
     "nutrient": "Fiber",
     "amount": 2.8,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 2.8
   },
   {
     "fdc": "Starfruit",
     "nutrient": "Protein",
     "amount": 1.04,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 1.04,
+    "FiberAmount": ""
   },
   {
     "fdc": "Cherries",
     "nutrient": "Fiber",
     "amount": 2.1,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 2.1
   },
   {
     "fdc": "Cherries",
     "nutrient": "Protein",
     "amount": 1.06,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 1.06,
+    "FiberAmount": ""
   },
   {
     "fdc": "Grapes",
     "nutrient": "Protein",
     "amount": 0.72,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.72,
+    "FiberAmount": ""
   },
   {
     "fdc": "Grapes",
     "nutrient": "Fiber",
     "amount": 0.9,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 0.9
   },
   {
     "fdc": "Guava",
     "nutrient": "Fiber",
     "amount": 5.4,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 5.4
   },
   {
     "fdc": "Guava",
     "nutrient": "Protein",
     "amount": 2.55,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 2.55,
+    "FiberAmount": ""
   },
   {
     "fdc": "Kiwi",
     "nutrient": "Protein",
     "amount": 1.06,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 1.06,
+    "FiberAmount": ""
   },
   {
     "fdc": "Kiwi",
     "nutrient": "Fiber",
     "amount": 3,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 3
   },
   {
     "fdc": "Honeydew",
     "nutrient": "Fiber",
     "amount": 0.8,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 0.8
   },
   {
     "fdc": "Honeydew",
     "nutrient": "Protein",
     "amount": 0.54,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.54,
+    "FiberAmount": ""
   },
   {
     "fdc": "Mango",
     "nutrient": "Fiber",
     "amount": 1.6,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 1.6
   },
   {
     "fdc": "Mango",
     "nutrient": "Protein",
     "amount": 0.82,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.82,
+    "FiberAmount": ""
   },
   {
     "fdc": "Papaya",
     "nutrient": "Fiber",
     "amount": 1.7,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 1.7
   },
   {
     "fdc": "Papaya",
     "nutrient": "Protein",
     "amount": 0.47,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.47,
+    "FiberAmount": ""
   },
   {
     "fdc": "Peach",
     "nutrient": "Protein",
     "amount": 0.91,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.91,
+    "FiberAmount": ""
   },
   {
     "fdc": "Peach",
     "nutrient": "Fiber",
     "amount": 1.5,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 1.5
   },
   {
     "fdc": "Pear",
     "nutrient": "Protein",
     "amount": 0.37,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.37,
+    "FiberAmount": ""
   },
   {
     "fdc": "Pear",
     "nutrient": "Fiber",
     "amount": 3.1,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 3.1
   },
   {
     "fdc": "Pineapple",
     "nutrient": "Fiber",
     "amount": 1.4,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 1.4
   },
   {
     "fdc": "Pineapple",
     "nutrient": "Protein",
     "amount": 0.54,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.54,
+    "FiberAmount": ""
   },
   {
     "fdc": "Plum",
     "nutrient": "Fiber",
     "amount": 1.4,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 1.4
   },
   {
     "fdc": "Plum",
     "nutrient": "Protein",
     "amount": 0.7,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.7,
+    "FiberAmount": ""
   },
   {
     "fdc": "Watermelon",
     "nutrient": "Fiber",
     "amount": 0.4,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 0.4
   },
   {
     "fdc": "Watermelon",
     "nutrient": "Protein",
     "amount": 0.61,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.61,
+    "FiberAmount": ""
   },
   {
     "fdc": "Blackberries",
     "nutrient": "Fiber",
     "amount": 5.3,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 5.3
   },
   {
     "fdc": "Blackberries",
     "nutrient": "Protein",
     "amount": 1.39,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 1.39,
+    "FiberAmount": ""
   },
   {
     "fdc": "Blueberries",
     "nutrient": "Protein",
     "amount": 0.74,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.74,
+    "FiberAmount": ""
   },
   {
     "fdc": "Blueberries",
     "nutrient": "Fiber",
     "amount": 2.4,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 2.4
   },
   {
     "fdc": "Cranberries",
     "nutrient": "Protein",
     "amount": 0.46,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.46,
+    "FiberAmount": ""
   },
   {
     "fdc": "Cranberries",
     "nutrient": "Fiber",
     "amount": 3.6,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 3.6
   },
   {
     "fdc": "Raspberries",
     "nutrient": "Protein",
     "amount": 1.2,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 1.2,
+    "FiberAmount": ""
   },
   {
     "fdc": "Raspberries",
     "nutrient": "Fiber",
     "amount": 6.5,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 6.5
   },
   {
     "fdc": "Strawberries",
     "nutrient": "Fiber",
     "amount": 1.8,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 1.8
   },
   {
     "fdc": "Strawberries",
     "nutrient": "Protein",
     "amount": 0.64,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 0.64,
+    "FiberAmount": ""
   },
   {
     "fdc": "Ripe Plantain",
     "nutrient": "Fiber",
     "amount": 1.7,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 1.7
   },
   {
     "fdc": "Ripe Plantain",
     "nutrient": "Protein",
     "amount": 1.3,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 1.3,
+    "FiberAmount": ""
   },
   {
     "fdc": "Artichoke",
     "nutrient": "Protein",
     "amount": 2.89,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 2.89,
+    "FiberAmount": ""
   },
   {
     "fdc": "Artichoke",
     "nutrient": "Fiber",
     "amount": 5.7,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 5.7
   },
   {
     "fdc": "Asparagus",
     "nutrient": "Fiber",
     "amount": 2.1,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": "",
+    "FiberAmount": 2.1
   },
   {
     "fdc": "Asparagus",
     "nutrient": "Protein",
     "amount": 2.2,
-    "Unit": "G"
+    "Unit": "G",
+    "ProteinAmount": 2.2,
+    "FiberAmount": ""
   }
 ]
