@@ -1,0 +1,147 @@
+[
+  {
+    "fdc": "Lemon",
+    "nutrient": "Protein",
+    "amount": 1.1
+  },
+  {
+    "fdc": "Orange",
+    "nutrient": "Protein",
+    "amount": 0.92
+  },
+  {
+    "fdc": "Tangerine",
+    "nutrient": "Protein",
+    "amount": 0.81
+  },
+  {
+    "fdc": "Apple",
+    "nutrient": "Protein",
+    "amount": 0.17
+  },
+  {
+    "fdc": "Apricot",
+    "nutrient": "Protein",
+    "amount": 1.4
+  },
+  {
+    "fdc": "Avocado",
+    "nutrient": "Protein",
+    "amount": 2
+  },
+  {
+    "fdc": "Banana",
+    "nutrient": "Protein",
+    "amount": 0.74
+  },
+  {
+    "fdc": "Cantaloupe",
+    "nutrient": "Protein",
+    "amount": 0.82
+  },
+  {
+    "fdc": "Starfruit",
+    "nutrient": "Protein",
+    "amount": 1.04
+  },
+  {
+    "fdc": "Cherries",
+    "nutrient": "Protein",
+    "amount": 1.06
+  },
+  {
+    "fdc": "Grapes",
+    "nutrient": "Protein",
+    "amount": 0.72
+  },
+  {
+    "fdc": "Guava",
+    "nutrient": "Protein",
+    "amount": 2.55
+  },
+  {
+    "fdc": "Kiwi",
+    "nutrient": "Protein",
+    "amount": 1.06
+  },
+  {
+    "fdc": "Honeydew",
+    "nutrient": "Protein",
+    "amount": 0.54
+  },
+  {
+    "fdc": "Mango",
+    "nutrient": "Protein",
+    "amount": 0.82
+  },
+  {
+    "fdc": "Papaya",
+    "nutrient": "Protein",
+    "amount": 0.47
+  },
+  {
+    "fdc": "Peach",
+    "nutrient": "Protein",
+    "amount": 0.91
+  },
+  {
+    "fdc": "Pear",
+    "nutrient": "Protein",
+    "amount": 0.37
+  },
+  {
+    "fdc": "Pineapple",
+    "nutrient": "Protein",
+    "amount": 0.54
+  },
+  {
+    "fdc": "Plum",
+    "nutrient": "Protein",
+    "amount": 0.7
+  },
+  {
+    "fdc": "Watermelon",
+    "nutrient": "Protein",
+    "amount": 0.61
+  },
+  {
+    "fdc": "Blackberries",
+    "nutrient": "Protein",
+    "amount": 1.39
+  },
+  {
+    "fdc": "Blueberries",
+    "nutrient": "Protein",
+    "amount": 0.74
+  },
+  {
+    "fdc": "Cranberries",
+    "nutrient": "Protein",
+    "amount": 0.46
+  },
+  {
+    "fdc": "Raspberries",
+    "nutrient": "Protein",
+    "amount": 1.2
+  },
+  {
+    "fdc": "Strawberries",
+    "nutrient": "Protein",
+    "amount": 0.64
+  },
+  {
+    "fdc": "Ripe Plantain",
+    "nutrient": "Protein",
+    "amount": 1.3
+  },
+  {
+    "fdc": "Artichoke",
+    "nutrient": "Protein",
+    "amount": 2.89
+  },
+  {
+    "fdc": "Asparagus",
+    "nutrient": "Protein",
+    "amount": 2.2
+  }
+]
